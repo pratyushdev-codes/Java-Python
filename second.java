@@ -1,4 +1,4 @@
-public class second {
+public class second { 
     public static void main(String[] args) {
         // Initialize the array and the target element
         int[] arr = {3, 5, 7, 9, 10, 90, 100, 130, 140, 160, 170};
